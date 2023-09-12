@@ -6,6 +6,7 @@ public class Test {
 		System.out.println("test");
 		System.out.println("git에서 추가");
 		System.out.println("git test");
+		System.out.println();
 	}
 
 }
