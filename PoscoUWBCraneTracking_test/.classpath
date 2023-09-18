@@ -6,7 +6,7 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="C:/eclipse/workspace/PoscoUWBCraneTracking_test/lib/mysql-connector-java-5.1.30-bin.jar"/>
-	<classpathentry kind="lib" path="C:/eclipse/workspace/PoscoUWBCraneTracking_test/lib/WebsocketClient-v2.2.1.a.jar"/>
+	<classpathentry kind="lib" path="E:/git/workspace/workspace/PoscoUWBCraneTracking_test/lib/mysql-connector-java-5.1.30-bin.jar"/>
+	<classpathentry kind="lib" path="E:/git/workspace/workspace/PoscoUWBCraneTracking_test/lib/WebsocketClient-v2.2.1.a.jar"/>
 	<classpathentry kind="output" path="classes"/>
 </classpath>
