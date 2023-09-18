@@ -21,5 +21,9 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="E:/git/workspace/workspace/PoscoDT2UWBTracking/lib/json.jar"/>
+	<classpathentry kind="lib" path="E:/git/workspace/workspace/PoscoDT2UWBTracking/lib/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/git/workspace/workspace/PoscoDT2UWBTracking/lib/mysql-connector-java-5.1.30-bin.jar"/>
+	<classpathentry kind="lib" path="E:/git/workspace/workspace/PoscoDT2UWBTracking/lib/WebsocketClient-v2.2.1.a.jar"/>
 	<classpathentry kind="output" path="classes"/>
 </classpath>
