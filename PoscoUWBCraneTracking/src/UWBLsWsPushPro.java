@@ -1514,9 +1514,12 @@ public class UWBLsWsPushPro extends RtlsWsManager {
 //		System.out.println("OnAttendanceStatics=========>" + attendanceStatics);
 	}
 
+	
+	//JAVA API 워드 문서-> 3.4.29	基站状态信息
+	//baseState	int : 基站状态，0表示故障，1表示正在发送数据，2表示心跳 ->기지국 상태, 0은 고장, 1은 데이터 전송 중, 2는 하트비트
 	@Override
 	public void OnBaseState(TBaseState baseState) {
-//		System.out.println(baseState);
+		System.out.println(baseState);
 	}
 
 //////////////////only available json pro////////////////////////////////////
